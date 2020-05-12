@@ -9,7 +9,6 @@ import gmail from "./../gmail2.png";
 import vibe from "./../BookToRead.PNG";
 import daypalanner from "./../Workdayscheduler.PNG";
 import burger from "./../eatdaburger.PNG";
-import archer from "./../archer.PNG";
 import employee from "./../employeedirectory.PNG"
 
 class Container extends React.Component {
